@@ -1,0 +1,10 @@
+flake8==3.8.4
+jsonschema==3.2.0
+mypy==0.790
+mypy-extensions==0.4.3
+pep257==0.7.0
+vulture==2.1
+radon==4.3.2
+
+
+
